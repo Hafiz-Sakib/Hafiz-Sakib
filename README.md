@@ -28,7 +28,8 @@
     <a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/> </a>
+    <a href="https://reactnative.dev/" target="_blank"><img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" width="48" height="48"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -38,15 +39,16 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://app.netlify.com/teams/hafiz-sakib/overview" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="45" height="45"/> </a> 
+    <a href="https://app.netlify.com/teams/hafiz-sakib/overview" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" width="45" height="45"/> </a> 
     <a href="https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/heroku.png" width="45" height="45"/> </a> 
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/figma--v1.png" width="45" height="45"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/emoji/48/undefined/water-wave.png" width="45" height="45"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="45" height="45"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio-code-2019.png" width="45" height="45"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://docs.google.com/document/u/0/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/google-docs--v1.png" alt="express" width="40" height="40"/> </a>
 
 </p>
 
