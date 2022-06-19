@@ -40,7 +40,8 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://app.netlify.com/teams/hafiz-sakib/overview" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" width="45" height="45"/> </a> 
-    <a href="https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/heroku.png" width="45" height="45"/> </a> 
+    <a href="https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/heroku.png" width="45" height="45"/> </a>
+        <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/npm.png" alt="express" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/figma--v1.png" width="45" height="45"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="45" height="45"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio-code-2019.png" width="45" height="45"/> </a> 
