@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.** &&  **Solving Problems in Several Online Judges**
+- 🌱 I’m currently learning **Data Structures and Algorithms  & Solving Problems in Several Online Judges**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
