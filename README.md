@@ -96,6 +96,11 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Badge"></a>
 
-### Watch my Contribution Graph get eaten by the snake 🥳
-
-![snake gif](https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
