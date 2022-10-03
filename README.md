@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms  & Solving Problems in Several Online Judges**
+- 🌱 I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -95,3 +95,7 @@
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Badge"></a>
+
+### Watch my Contribution Graph get eaten by the snake 🥳
+
+![snake gif](https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/output/github-contribution-grid-snake.gif)
