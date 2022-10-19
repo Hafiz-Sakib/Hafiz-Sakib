@@ -80,12 +80,12 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/49/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
-<a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://twitter.com/Hafizsakib1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://codeforces.com/profile/hafiz_sakib" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48.5/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
+<a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/Sakib1056" target="blank"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
+<a href = "https://m.me/Sakib1056" target="blank"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
+<a href = "https://twitter.com/Hafizsakib1" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/s_a_k_i_b_1056/ target="blank""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
