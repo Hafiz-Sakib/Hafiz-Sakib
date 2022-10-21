@@ -77,11 +77,11 @@
 <br/>
 <br/>
 
-![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/rating.svg)
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="280em" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg" />
+</p>
 
-![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg)
 
 ## Connect with me:
 
