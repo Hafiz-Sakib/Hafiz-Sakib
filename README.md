@@ -84,6 +84,10 @@
   
   
   ![](https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg)
+
   </div>
 
 <br/>
