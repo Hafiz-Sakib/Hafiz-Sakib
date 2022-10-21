@@ -77,6 +77,12 @@
 <br/>
 <br/>
 
+![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg)
+
 ## Connect with me:
 
 <p align="left">
@@ -88,10 +94,6 @@
 <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-
-
-
 
 ## ❤ Views and Followers
 
