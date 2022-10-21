@@ -11,7 +11,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">  I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
-- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges**
+- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
