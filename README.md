@@ -76,7 +76,7 @@
 
 <br/>
 <br/>
-# Competitive Programminhg
+
 ![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/rating.svg)
 
