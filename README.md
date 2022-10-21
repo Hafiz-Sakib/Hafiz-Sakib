@@ -65,9 +65,15 @@
 
   <br/>
   
- <p align="center">
-      <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Hafiz-Sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <p class="row">
+      <div class="col-md-8" markdown="1">
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Hafiz-Sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
+<div class="col-md-8" markdown="1">
+
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-Sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
  </p>
  
   <br/>
