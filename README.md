@@ -76,6 +76,12 @@
 
 <br/>
 <br/>
+# Competitive Programminhg
+![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/hafiz_Sakib/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hafiz_sakib/cf-stats/main/output/light_card.svg)
 
 ## Connect with me:
 
