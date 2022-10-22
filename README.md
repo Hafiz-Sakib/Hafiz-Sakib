@@ -79,16 +79,18 @@
 
 ## 📈 Competitive Programming
 
- <br/>
-  <br/>
+<br/>
+<br/>
 
-  <div align="center" >
+<div align="center" >
   
  <!-- Codeforces Stats Card Started-->
 
 <img height="280em" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
 <!-- Codeforces Stats Card Ended-->
+
+<br/>
 
 <!-- Codeforces Ratings Max && Currents Started  -->
 
@@ -106,11 +108,15 @@
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
+  <br/>
+
 <!-- Leetcode Stats Card Started-->
 
 <img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" />
 
 <!-- Leetcode Stats Card Ended-->
+
+<br/>
 
 <!--  Leetcode Ratings Card Started -->
 
