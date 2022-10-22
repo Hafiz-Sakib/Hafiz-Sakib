@@ -114,9 +114,13 @@
 
 <!--  Leetcode Ratings Card Started -->
 
+ <div>
+ 
  <a href="https://leetcode.com/hafiz_sakib/">
     <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
   </a>
+
+ </div>
 
 <!--  Leetcode Ratings Card Ended-->
 
