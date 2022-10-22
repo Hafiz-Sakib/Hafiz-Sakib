@@ -74,7 +74,11 @@
 
 <!-- Summary Graph End -->
 
+<!-- Github Stats Start -->
+
 <a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!-- Github Stats End -->
 
    <br/>
 
@@ -91,7 +95,9 @@
 <!--Top Language Graph End -->
 
 </div>
+
   <br/>
+  
 <div align="center">
 <b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
 
