@@ -106,6 +106,20 @@
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
+<!-- leetcode Card Started-->
+
+<img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" />
+
+<!-- leetcode Card Ended-->
+
+<!--  Leetcode Ratings Card Started -->
+
+ <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
+  </a>
+
+<!--  Leetcode Ratings Card Ended-->
+
   </div>
 
 <br/>
