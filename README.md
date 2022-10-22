@@ -92,6 +92,8 @@
 
 <!-- Codeforces Ratings Max && Currents Started  -->
 
+<div>
+
 <a href="https://codeforces.com/profile/hafiz_sakib">
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
@@ -99,6 +101,8 @@
   <a href="https://codeforces.com/profile/hafiz_sakib">
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
+
+</div>
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
