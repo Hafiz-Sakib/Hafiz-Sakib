@@ -70,7 +70,7 @@
    <p align="center">
 	<!-- Github Stats Start -->
 
-<img alt="hafiz-sakib's Github Stats"  width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="hafiz-sakib's Github Stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
 <!-- Github Stats End -->
 
