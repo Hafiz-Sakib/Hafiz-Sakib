@@ -109,27 +109,27 @@
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
-  <br/>
-  <br/>
+ <!--  <br/>
+  <br/> -->
 
 <!-- Leetcode Stats Card Started-->
 
-<img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" />
+<!-- <img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" /> -->
 
 <!-- Leetcode Stats Card Ended-->
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 <!--  Leetcode Ratings Card Started -->
 
- <div>
- 
+<!--  <div>
+
  <a href="https://leetcode.com/hafiz_sakib/">
     <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
   </a>
 
- </div>
+ </div> -->
 
 <!--  Leetcode Ratings Card Ended-->
 
