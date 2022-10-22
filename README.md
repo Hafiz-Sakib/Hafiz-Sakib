@@ -84,11 +84,11 @@
 
   <div align="center" >
   
- <!-- Codeforces Card Started-->
+ <!-- Codeforces Stats Card Started-->
 
 <img height="280em" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
-<!-- Codeforces Card Ended-->
+<!-- Codeforces Stats Card Ended-->
 
 <!-- Codeforces Ratings Max && Currents Started  -->
 
@@ -106,11 +106,11 @@
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
-<!-- leetcode Card Started-->
+<!-- Leetcode Stats Card Started-->
 
 <img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" />
 
-<!-- leetcode Card Ended-->
+<!-- Leetcode Stats Card Ended-->
 
 <!--  Leetcode Ratings Card Started -->
 
