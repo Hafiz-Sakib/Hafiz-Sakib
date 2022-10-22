@@ -91,6 +91,7 @@
 <!-- Codeforces Stats Card Ended-->
 
 <br/>
+<br/>
 
 <!-- Codeforces Ratings Max && Currents Started  -->
 
@@ -109,6 +110,7 @@
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
   <br/>
+  <br/>
 
 <!-- Leetcode Stats Card Started-->
 
@@ -116,6 +118,7 @@
 
 <!-- Leetcode Stats Card Ended-->
 
+<br/>
 <br/>
 
 <!--  Leetcode Ratings Card Started -->
