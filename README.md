@@ -71,7 +71,7 @@
   <!-- Summary Graph Start -->
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
 </p>
 
 <!-- Summary Graph End -->
