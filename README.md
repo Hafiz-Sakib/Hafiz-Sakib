@@ -68,8 +68,17 @@
 </br>
 
    <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+	<!-- Github Stats Start -->
+
+<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!-- Github Stats End -->
+
+<!--Top Language Graph Start -->
+
+<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!--Top Language Graph End -->
 </p>
 
    <p align="center">
