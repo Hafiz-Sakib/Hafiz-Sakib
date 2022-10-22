@@ -83,8 +83,9 @@
 
    <p align="center">
 
-   	<img  width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-sakib&theme=github_dark&utcOffset=8"/>
+   	<img alt="hafiz-sakib's Github Stats"  width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
+
+<img alt="hafiz-sakib's Github Stats"  width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-sakib&theme=github_dark&utcOffset=8"/>
 
 </br>
 
