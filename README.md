@@ -82,9 +82,9 @@
 </p>
 
    <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
-</p>
+
+   	<img  width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-sakib&theme=github_dark&utcOffset=8"/>
 
 </br>
 
