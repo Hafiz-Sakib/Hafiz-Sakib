@@ -70,13 +70,13 @@
    <p align="center">
 	<!-- Github Stats Start -->
 
-<img alt="hafiz-sakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="hafiz-sakib's Github Stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
 <!-- Github Stats End -->
 
 <!--Top Language Graph Start -->
 
-<img alt="hafiz-sakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="hafiz-sakib's Top Languages"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 <!--Top Language Graph End -->
 </p>
