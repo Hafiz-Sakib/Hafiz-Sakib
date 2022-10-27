@@ -21,7 +21,11 @@
 
 <!-- Ai Started -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/5.gif">
+<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
+
+<video width="320" height="240" controls>
+  <source src="./assets/Outer/letsCode.mp4" type="video/mp4">
+</video>
 
 <!-- Ai Ended -->
 
