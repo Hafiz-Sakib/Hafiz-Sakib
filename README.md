@@ -42,7 +42,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<div style="margin-top: 250px;">
+<div style="margin-top: 250px">
 
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
