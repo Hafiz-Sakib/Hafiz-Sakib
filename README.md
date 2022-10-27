@@ -21,7 +21,7 @@
 
 <!-- Ai Started -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/2.gif">
+<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/4.gif">
 
 <!-- Ai Ended -->
 
