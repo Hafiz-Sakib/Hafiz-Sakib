@@ -25,8 +25,6 @@
 
 <!-- Ai Ended -->
 
-# I am <span style="color: #03C6C7"> Competitive Programmer </span>
-
 <h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Hafiz Sakib</h1>
 <h3 align="center">I'm a Passionate 
 <span style="color: #03C6C7!important">Competitive Programmer</span>
