@@ -26,7 +26,9 @@
 <!-- Ai Ended -->
 
 <h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Hafiz Sakib</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Chittagong,Bangladesh.</h3>
+<h3 align="center">I'm a Passionate 
+<span style="color: #03C6C7">Competitive Programmer</span>
+& <span style="color: #03C6C7">Full Stack Developer</span> from Chittagong,Bangladesh.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
