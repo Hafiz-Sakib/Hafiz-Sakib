@@ -25,7 +25,16 @@
 
 <!-- Full Stack Developer gif Ended -->
 
+<!-- Space gif Started -->
+
 <img align="right" alt="Coding" width="100%" src="https://mechomotive.com/wp-content/uploads/2021/07/3cfc4f70e9-HE-2_1.gif">
+
+<!-- Space gif Ended -->
+<!-- Space gif Started -->
+
+<img align="right" alt="Coding" width="100%" src="https://techgenesis20.files.wordpress.com/2020/06/connections.gif?w=1080&zoom=2">
+
+<!-- Space gif Ended -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hafiz Sakib</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Chittagong,Bangladesh.</h3>
