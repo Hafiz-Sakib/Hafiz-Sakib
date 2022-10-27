@@ -34,15 +34,15 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
-- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
+- <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- <img src="https://i.postimg.cc/BZPFmNm7/bomb.gif" width="30" align="center"> I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
+- <img src="https://i.postimg.cc/tTbZszN2/bomb.gif" width="30" align="center"> All of my projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
 
-- 📫 How to reach me **hafizsakib5@gmail.com**
+- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- <img src="https://i.postimg.cc/tTbZszN2/bomb.gif" width="30" align="center"> Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
