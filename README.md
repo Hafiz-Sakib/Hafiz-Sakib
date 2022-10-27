@@ -192,7 +192,7 @@
 
 ## <img src="https://i.postimg.cc/kGcZL8CT/bottle-with-popping-cork.gif" width="40px" align="center">Viewers and Followers <img src="https://i.postimg.cc/0jcWVsG3/clinking-beer-mugs.gif" width="40px" align="center">
 
-<div style="margin-left: 200px; margin-top: 35px;">
+<div align="center">
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib">
 </a> <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Badge"></a>
