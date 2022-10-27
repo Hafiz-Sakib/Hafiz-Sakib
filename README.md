@@ -88,7 +88,7 @@
 
 <!-- Github All Stats Start -->
 
-## 📊 My Github Stats
+## <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center">
 
   <br/>
   <div align="center">
