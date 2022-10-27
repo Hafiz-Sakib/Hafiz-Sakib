@@ -42,7 +42,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 
 ## 🙋‍♂️ About Me
 
