@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
-## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="50px" align="center"> About Me
+## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
@@ -44,7 +44,7 @@
 
 - <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I Love to play Games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools:
 
 <p align="left">
    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
