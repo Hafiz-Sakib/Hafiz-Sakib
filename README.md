@@ -126,7 +126,8 @@
   <br/>
 
 <div align="center">
-<b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
+
+<img src="https://i.postimg.cc/W1q3cmWW/backhand-index-pointing-right.gif" width="30px" align="center"><b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
 
 <br/>
 
