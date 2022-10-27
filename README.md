@@ -38,7 +38,7 @@
 <!-- Ai Ended -->
 <!-- Ai Started -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="[./assets/Outer/1.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)">
+<img align="right" alt="Coding" width="100%" height="100%" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 <!-- Ai Ended -->
 
