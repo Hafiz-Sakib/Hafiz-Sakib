@@ -174,7 +174,9 @@
 <br/>
 <br/>
 
-## Connect with me:
+## <img src="https://i.postimg.cc/x8g3y3G3/man-zombie.gif" width="40px" align="center"> Connect with me:
+
+</br>
 
 <p align="left">
 <a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48.5/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" style="margin-right: 3px"/></a>
@@ -186,7 +188,11 @@
 
 </p>
 
-## ❤ Views and Followers
+</br>
+
+## <img src="https://i.postimg.cc/kGcZL8CT/bottle-with-popping-cork.gif" width="40px" align="center"> Views and Followers <img src="https://i.postimg.cc/0jcWVsG3/clinking-beer-mugs.gif" width="40px" align="center">
+
+</br>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib">
