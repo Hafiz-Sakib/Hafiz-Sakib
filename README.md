@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
-# About Me <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" width="50" align="center">
+## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="margin-bottom: 10px" width="30" align="center"> About Me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
