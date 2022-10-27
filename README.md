@@ -24,7 +24,7 @@
 <!-- <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
  -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="./assets/web/791abfb2838a997f56458f8503467fa9.webp">
+<img align="right" alt="Coding" width="100%" height="100%" src="./assets/web/affbd0a5886ea406a8216a4eea77cd15.webp">
 
 <!-- Ai Ended -->
 
