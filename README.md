@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
-## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
+# <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
@@ -44,7 +44,7 @@
 
 - <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
 
-## <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
+# <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
 
 </br>
 
@@ -88,7 +88,7 @@
 
 <!-- Github All Stats Start -->
 
-## <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/ZYX2DrNK/smiling-face-with-sunglasses.gif" width="40px" align="center">
+# <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/ZYX2DrNK/smiling-face-with-sunglasses.gif" width="40px" align="center">
 
   <br/>
   <div align="center">
@@ -133,7 +133,7 @@
 
 <!-- Github All Stats End -->
 
-## 📈 Competitive Programming
+# 📈 Competitive Programming
 
 <br/>
 <br/>
@@ -175,7 +175,7 @@
 <br/>
 <br/>
 
-## <img src="https://i.postimg.cc/x8g3y3G3/man-zombie.gif" width="40px" align="center"> Connect with me:
+# <img src="https://i.postimg.cc/x8g3y3G3/man-zombie.gif" width="40px" align="center"> Connect with me:
 
 </br>
 
@@ -191,7 +191,7 @@
 
 </br>
 
-## <img src="https://i.postimg.cc/kGcZL8CT/bottle-with-popping-cork.gif" width="40px" align="center">Viewers and Followers <img src="https://i.postimg.cc/0jcWVsG3/clinking-beer-mugs.gif" width="40px" align="center">
+# <img src="https://i.postimg.cc/kGcZL8CT/bottle-with-popping-cork.gif" width="40px" align="center">Viewers and Followers <img src="https://i.postimg.cc/0jcWVsG3/clinking-beer-mugs.gif" width="40px" align="center">
 
 <div align="center">
  
