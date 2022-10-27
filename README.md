@@ -44,7 +44,7 @@
 
 - <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
 
-## <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
+## <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools:
 
 </br>
 
@@ -88,7 +88,7 @@
 
 <!-- Github All Stats Start -->
 
-## <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats
+## <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/ZYX2DrNK/smiling-face-with-sunglasses.gif" width="40px" align="center">
 
   <br/>
   <div align="center">
