@@ -30,19 +30,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
-## 🙋‍♂️ About Me
+## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" width="35" align="center"> About Me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
 - <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
-- <img src="https://i.postimg.cc/BZPFmNm7/bomb.gif" width="30" align="center"> I’m looking to collaborate on **OpenSource Projects**
+- <img src="https://i.postimg.cc/tJ9HnBJR/eyes.gif" width="30" align="center"> I’m looking to collaborate on **OpenSource Projects**
 
-- <img src="https://i.postimg.cc/tTbZszN2/bomb.gif" width="30" align="center"> All of my projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
+- <img src="https://i.postimg.cc/BZPFmNm7/bomb.gif" width="30" align="center"> All of my projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
 
 - <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
 
-- <img src="https://i.postimg.cc/tTbZszN2/bomb.gif" width="30" align="center"> Fun fact **I play games and go to the GYM very often.**
+- <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I Love to play Games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
