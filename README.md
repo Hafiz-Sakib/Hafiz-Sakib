@@ -19,18 +19,6 @@
 
 </div>
 
-<!-- Full Stack Developer gif Started -->
-
-<!-- <img align="right" alt="Coding" width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"> -->
-
-<!-- Full Stack Developer gif Ended -->
-
-<!-- Space gif Started -->
-
-<!-- <img align="right" alt="Coding" width="100%" src="https://mechomotive.com/wp-content/uploads/2021/07/3cfc4f70e9-HE-2_1.gif"> -->
-
-<!-- Space gif Ended -->
-
 <!-- Ai Started -->
 
 <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
@@ -40,7 +28,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hafiz Sakib</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Chittagong,Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="400" margin-top="500px" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 ## 🙋‍♂️ About Me
 
