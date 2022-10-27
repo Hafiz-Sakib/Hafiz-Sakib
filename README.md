@@ -33,7 +33,7 @@
 
 <!-- test Started -->
 
-<img align="right" alt="Coding" width="100%" src="https://im3.ezgif.com/tmp/ezgif-3-fc6d519295.webp">
+<img align="right" alt="Coding" width="100%" height="80%" src="https://im3.ezgif.com/tmp/ezgif-3-fc6d519295.webp">
 
 <!-- Test Ended -->
 
