@@ -33,11 +33,6 @@
 
 <!-- Ai Started -->
 
-<!-- <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif"> -->
-
-<!-- Ai Ended -->
-<!-- Ai Started -->
-
 <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
 
 <!-- Ai Ended -->
@@ -47,7 +42,11 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<img align="right" alt="Coding" width="400" style="margin-top: 250px;" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+<div style="margin-top: 250px;">
+
+<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+
+</div>
 
 ## 🙋‍♂️ About Me
 
