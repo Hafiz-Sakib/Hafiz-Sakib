@@ -28,11 +28,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hafiz Sakib</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Chittagong,Bangladesh.</h3>
 
+</br>
+</br>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 ## <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
-
-</br>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I’m currently working on **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
@@ -44,7 +45,7 @@
 
 - <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
 
-- <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I Love to play Games and go to the GYM very often.**
+- <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
 
 ## <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools:
 
