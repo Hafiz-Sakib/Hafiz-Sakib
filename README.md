@@ -42,7 +42,7 @@ Competitive Programmer
 
 - <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
-- <img src="https://i.postimg.cc/YSw8ycN8/handshake.gif" width="30" align="center"> I’m looking to Collaborate on **OpenSource Projects** <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center">
+- <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> I’m looking to Collaborate on **OpenSource Projects** <img src="https://i.postimg.cc/YSw8ycN8/handshake.gif" width="30" align="center">
 
 - <img src="https://i.postimg.cc/BZPFmNm7/bomb.gif" width="30" align="center"> All of my Projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
 
