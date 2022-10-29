@@ -36,8 +36,6 @@ Competitive Programmer
 
 # <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
-- <img src="https://i.postimg.cc/TYL9d2CC/writing-hand.gif" width="30" align="center"> Currently I am Student of: **[Premier University,Chittagong](https://puc.ac.bd/)**
-
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
 - <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
