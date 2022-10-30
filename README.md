@@ -32,7 +32,7 @@
 Competitive Programmer & Full Stack Web Developer from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" style="padding-bottom: 10px" width="35px" align="center"> </h3> -->
 
 <div align="center">I'm a Passionate
- <strong>Competitive Programmer<em></strong></em> &<h4>Full Stack Web Developer</h4>from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" style="padding-bottom: 10px" width="35px" align="center"> </div>
+ <em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer<em></strong>from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" style="padding-bottom: 10px" width="35px" align="center"> </div>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
