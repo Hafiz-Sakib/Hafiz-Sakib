@@ -21,7 +21,7 @@
 
 <!-- Banner Started -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
+<img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/1.gif">
 
 <!-- Banner Ended -->
 
