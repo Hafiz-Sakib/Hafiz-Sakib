@@ -21,9 +21,8 @@
 
 <!-- Banner Started -->
 
-<!-- <img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/1.gif"> -->
-<img align="right" alt="Banner" width="100%" height="100%" src="https://i.postimg.cc/mrbYxBnL/2738.jpg">
-
+ <img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/1.gif">
+<!-- <img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/13.jpg"> -->
 <!-- Banner Ended -->
 
 <!-- About Me Section Started-->
