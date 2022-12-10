@@ -4,6 +4,10 @@
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
  </a>
 
+  <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
+  </a>
+
 <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
 </a>
@@ -204,10 +208,11 @@
 
 <p align="left">
 <a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48.5/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" style="margin-right: 3px"/></a>
+<a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"alt="hafiz_sakib" style="margin-right: 3px"/></a>
 <a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
 <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://twitter.com/Hafizsakib1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Hafizsakib1"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
 <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
