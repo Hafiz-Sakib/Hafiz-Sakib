@@ -206,7 +206,7 @@
 
 </br>
 
-<p align="left">
+<p align="center">
 <a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" style="margin-right: 3px"/></a>
 <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"alt="hafiz_sakib" style="margin-left: 30px"/></a>
 <a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
