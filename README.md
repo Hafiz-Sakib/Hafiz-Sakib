@@ -219,7 +219,7 @@
 
 <!-- Activity & Contribution Graph Section Started -->
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Hafiz Sakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Activity & Contribution Graph Section Ended -->
 
