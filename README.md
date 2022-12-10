@@ -168,7 +168,7 @@
 <br/>
 <br/>
 
-<!-- Codeforces Ratings Max && Currents Started  -->
+<!-- Codeforces && Leetcode Ratings Card Started  -->
 
 <div>
 
