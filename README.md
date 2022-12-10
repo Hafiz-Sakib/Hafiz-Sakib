@@ -4,6 +4,10 @@
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
  </a>
 
+<a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
+  </a>
+
 <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
 </a>
