@@ -4,10 +4,6 @@
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
  </a>
 
-<a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a>
-
 <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
 </a>
@@ -25,9 +21,7 @@
 
 <!-- Banner Started -->
 
- <img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/1.gif">
-
-<!-- <img align="right" alt="Banner" width="100%" height="100%" src="./assets/Outer/13.jpg"> -->
+<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/1.gif">
 
 <!-- Banner Ended -->
 
@@ -37,7 +31,7 @@
 <h3 align="center">I'm a Passionate
 <em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
 
-<img align="right" alt="Coding" width="400" src="assets/Inner/9.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 # <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
@@ -186,30 +180,6 @@
 
   <!-- Codeforces Ratings Max && Currents Ended  -->
 
-<!-- Leetcode Stats Card Started-->
-
-<br/>
-<br/>
-
-<img height="200em" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" />
-
-<!-- Leetcode Stats Card Ended-->
-
-<br/>
-<br/>
-
-<!--  Leetcode Ratings Card Started -->
-
- <div>
- 
- <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a>
-
- </div>
-
-<!--  Leetcode Ratings Card Ended-->
-
   </div>
 
   <!-- Competitive Programming Section Ended -->
@@ -219,7 +189,7 @@
 
 <!-- Activity & Contribution Graph Section Started -->
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Hafiz Sakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Activity & Contribution Graph Section Ended -->
 
@@ -233,19 +203,11 @@
 </br>
 
 <p align="left">
-
 <a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48.5/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" style="margin-right: 3px"/></a>
-
-<a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"alt="hafiz_sakib" style="margin-right: 3px"/></a>
-
 <a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
-
 <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-
 <a href = "https://twitter.com/Hafizsakib1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
