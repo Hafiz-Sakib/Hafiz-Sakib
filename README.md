@@ -173,7 +173,7 @@
 <div>
 
   <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces rating" />
   </a>
 
  <a href="https://leetcode.com/hafiz_sakib/">
