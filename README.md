@@ -168,21 +168,21 @@
 <br/>
 <br/>
 
-<!-- Codeforces && Leetcode Ratings Card Started  -->
+<!-- Codeforces Ratings Max && Currents Started  -->
 
 <div>
 
-  <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces rating" />
+<a href="https://codeforces.com/profile/hafiz_sakib">
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-
- <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
+  
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
 
 </div>
 
-  <!-- Codeforces && Leetcode Ratings Card Ended  -->
+  <!-- Codeforces Ratings Max && Currents Ended  -->
 
   </div>
 
