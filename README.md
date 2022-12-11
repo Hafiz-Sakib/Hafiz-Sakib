@@ -193,7 +193,9 @@
 
 <!-- Activity & Contribution Graph Section Started -->
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=hafiz-sakib" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
 
 <!-- Activity & Contribution Graph Section Ended -->
 
