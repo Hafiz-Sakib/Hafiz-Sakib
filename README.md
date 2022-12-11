@@ -172,12 +172,12 @@
 
 <div>
 
-<a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
-  </a>
-  
   <a href="https://codeforces.com/profile/hafiz_sakib">
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
   </a>
 
 </div>
