@@ -105,7 +105,7 @@
 
 <!-- Github All Stats Start -->
 
-# <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/ZYX2DrNK/smiling-face-with-sunglasses.gif" width="40px" align="center">
+# <img src="https://i.postimg.cc/HW3kPW9p/direct-hit.gif" width="40px" align="center"> My Github Stats
 
   <br/>
   <div align="center">
