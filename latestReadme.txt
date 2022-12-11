@@ -105,7 +105,7 @@
 
 <!-- Github All Stats Start -->
 
-# <img src="https://i.postimg.cc/JhKs478t/trophy.gif" width="40px" align="center"> My Github Stats <img src="https://i.postimg.cc/ZYX2DrNK/smiling-face-with-sunglasses.gif" width="40px" align="center">
+# <img src="https://i.postimg.cc/HW3kPW9p/direct-hit.gif" width="40px" align="center"> My Github Stats
 
   <br/>
   <div align="center">
@@ -193,7 +193,16 @@
 
 <!-- Activity & Contribution Graph Section Started -->
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Hafiz Sakib's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Sakib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+# 📊 Contribution Graph
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 <!-- Activity & Contribution Graph Section Ended -->
 
@@ -202,7 +211,7 @@
 
 <!-- Social Media Connection Section Started -->
 
-# <img src="https://i.postimg.cc/x8g3y3G3/man-zombie.gif" width="40px" align="center"> Connect with me :
+# <img src="https://i.postimg.cc/qvK00py6/handshake.gif" width="40px" align="center"> Connect with me :
 
 </br>
 
