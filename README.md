@@ -193,7 +193,7 @@
 
 <!-- Activity & Contribution Graph Section Started -->
 
-# Contribution Graph 📈
+# 📊 Contribution Graph
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
