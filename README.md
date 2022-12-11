@@ -211,7 +211,7 @@
 
 <!-- Social Media Connection Section Started -->
 
-# <img src="https://i.postimg.cc/rsYcymfx/raising-hands.gif" width="40px" align="center"> Connect with me :
+# <img src="https://i.postimg.cc/qvK00py6/handshake.gif" width="40px" align="center"> Connect with me :
 
 </br>
 
