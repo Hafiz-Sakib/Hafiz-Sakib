@@ -49,7 +49,7 @@
 
 - <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
 
-- <img src="https://i.postimg.cc/PrkMZBdQ/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
+- <img src="https://i.postimg.cc/RFF5t5pv/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
 
 <!-- About Me Section Ended-->
 
