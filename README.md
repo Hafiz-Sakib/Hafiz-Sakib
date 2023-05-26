@@ -238,7 +238,7 @@
 <!-- Snake Eating Contribution Section Started -->
 
 <div align="center">
-  <h2><img src="https://i.postimg.cc/FFBBq02n/snake.gif" width="40px" align="center"> My Contributions in Github <img src="https://i.postimg.cc/FFBBq02n/snake.gif" width="40px" align="center"></h2>
+  <h2><img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"> My Contributions in Github <img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"></h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/output/github-contribution-grid-snake.svg">
   <br>
