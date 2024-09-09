@@ -4,9 +4,11 @@
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
  </a>
 
-  <a href="https://leetcode.com/hafiz_sakib/">
+ <!--  
+ <a href="https://leetcode.com/hafiz_sakib/">
     <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a>
+  </a> 
+ -->
 
 <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
@@ -175,9 +177,14 @@
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating" />
   </a>
 
+  <!-- 
   <a href="https://leetcode.com/hafiz_sakib/">
     <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a>
+  </a> 
+  -->
+  <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode" alt="LeetCode profile" />
+</a>
 
   <a href="https://codeforces.com/profile/hafiz_sakib">
     <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
