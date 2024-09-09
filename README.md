@@ -223,7 +223,7 @@
 <a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
 <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://twitter.com/Hafizsakib1"><img src="./assets/logo/x.avif"/></a>
+<a href = "https://twitter.com/Hafizsakib1"><img src="./assets/logo/x.avif" width="100" height="100"/></a>
 <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
