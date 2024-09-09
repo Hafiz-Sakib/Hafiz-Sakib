@@ -41,11 +41,11 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Tour Guide](https://tour-guide-553b5.web.app/)**
 
-- <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
+- <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
 - <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> I’m looking to Collaborate on **OpenSource Projects**
 
-- <img src="https://i.postimg.cc/BZPFmNm7/bomb.gif" width="30" align="center"> All of my Projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
+- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> All of my Projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
 
 - <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
 
@@ -55,7 +55,7 @@
 
 <!--  Languages and Tools Section Started-->
 
-# <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
+# <img src="./assets/animated emoji/rocket.gif" width="60px" align="center"> Languages and Tools :
 
 </br>
 
@@ -104,7 +104,7 @@
 
 <!-- Github All Stats Start -->
 
-# <img src="https://i.postimg.cc/HW3kPW9p/direct-hit.gif" width="40px" align="center"> My Github Stats
+# <img src="./assets/animated emoji/direct_hit.gif" width="40px" align="center"> My Github Stats
 
   <br/>
   <div align="center">
