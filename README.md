@@ -143,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/W1q3cmWW/backhand-index-pointing-right.gif" width="30px" align="center"><b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
+<img src="./assets/animated emoji/backhand_index_pointing_right.gif" width="30px" align="center"><b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
 
 <br/>
 
@@ -211,7 +211,7 @@
 
 <!-- Social Media Connection Section Started -->
 
-# <img src="https://i.postimg.cc/qvK00py6/handshake.gif" width="40px" align="center"> Connect with me :
+# <img src="./assets/animated emoji/handshake.gif" width="40px" align="center"> Connect with me :
 
 </br>
 
@@ -223,7 +223,7 @@
 <a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
 <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://twitter.com/Hafizsakib1"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href = "https://twitter.com/Hafizsakib1"><img src="./assets/logo/x.avif"/></a>
 <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
