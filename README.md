@@ -10,6 +10,10 @@
   </a> 
  -->
 
+   <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode" alt="LeetCode profile" />
+</a>
+
 <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
 </a>
