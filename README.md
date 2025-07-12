@@ -35,7 +35,7 @@
 
 <!-- Programming Hero Method  -->
 
-<!-- <a href="https://web.programming-hero.com" >
+<!-- <a href="hafizsakib.vercel.app" >
 <img width="100%" src="./assets/Outer/1.gif" />
 </a> -->
 
