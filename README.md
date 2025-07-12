@@ -31,17 +31,12 @@
 
 <!-- Banner Started -->
 
-<!-- <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/7.gif"> -->
+<img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/7.gif">
 
 <!-- Programming Hero Method  -->
 <!-- <a href="https://web.programming-hero.com" >
-<img width="100%" src="./assets/Outer/11.gif" />
+<img width="100%" src="./assets/Outer/1.gif" />
 </a> -->
-
-<!-- Chatgpt Method  -->
-<p>
-  <img src="./assets/Outer/7.gif" alt="Coding" style="width:100%;">
-</p>
 
 <!-- Banner Ended -->
 
