@@ -31,9 +31,10 @@
 
 <!-- Banner Started -->
 
-<img align="right" alt="Coding" width="100%" src="./assets/Outer/7.gif">
+<img align="right" alt="Coding" width="100%" src="./assets/Outer/1.gif">
 
 <!-- Programming Hero Method  -->
+
 <!-- <a href="https://web.programming-hero.com" >
 <img width="100%" src="./assets/Outer/1.gif" />
 </a> -->
