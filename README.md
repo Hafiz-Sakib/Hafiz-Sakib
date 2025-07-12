@@ -33,7 +33,7 @@
 
 <!-- <img align="right" alt="Coding" width="100%" height="100%" src="./assets/Outer/7.gif"> -->
 <a href="https://web.programming-hero.com" >
-<img width="100%" height="70%" src="./assets/Outer/7.gif" />
+<img width="100%" src="./assets/Outer/7.gif" />
 </a>
 
 <!-- Banner Ended -->
