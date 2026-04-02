@@ -15,9 +15,19 @@
 
 <br>
 
-<a href="https://hafizsakib.vercel.app">
-  <img src="./assets/Outer/1.gif" alt="Banner" width="100%" style="border-radius: 12px;" />
-</a>
+<!-- <a href="https://hafizsakib.vercel.app">
+  <img src="./assets/Inner/9.gif" alt="Banner" width="50%" style="border-radius: 10%;" />
+</a> -->
+<br>
+
+<div align="center">
+  <a href="https://hafizsakib.vercel.app">
+    <img src="./assets/Inner/9.gif" 
+         alt="Hafiz Sakib - Banner" 
+         width="50%" 
+         style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  </a>
+</div>
 
 <br>
 
@@ -29,12 +39,12 @@
 
 ## About Me
 
-- **Current Role**: Passionate problem-solver and full-stack developer with a strong focus on clean, efficient code.
-- **Latest Project**: [Tour Guide](https://tour-guide-553b5.web.app/) — A modern web application built with React and Firebase.
-- **Currently Learning**: Advanced Data Structures & Algorithms while actively participating in competitive programming contests.
-- **Open to Collaboration**: Interested in open-source projects and impactful web development initiatives.
-- **Portfolio**: [View All Projects](https://mr-hafiz-sakib.netlify.app/)
-- **Contact**: [hafizsakib5@gmail.com](mailto:hafizsakib5@gmail.com)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Project**: [Tour Guide](https://tour-guide-553b5.web.app/)
+- <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
+- <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
+- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](https://mr-hafiz-sakib.netlify.app/)
+- <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> **Reach me at**: [hafizsakib5@gmail.com](mailto:hafizsakib5@gmail.com)
+- <img src="https://i.postimg.cc/RFF5t5pv/man-running.gif" width="30" align="center"> **Beyond Coding**: I love playing games and going to the gym regularly
 
 <br>
 
