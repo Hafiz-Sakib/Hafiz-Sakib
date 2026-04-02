@@ -25,7 +25,7 @@
     <img src="./assets/Inner/9.gif" 
          alt="Hafiz Sakib - Banner" 
          width="50%" 
-         style="border-radius: 10%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+         style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
   </a>
 </div>
 
