@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://hafizsakib.vercel.app">
-    <img src="./assets/Inner/9.gif" 
+    <img src="./assets/Inner/9_r.gif" 
          alt="Hafiz Sakib - Banner" 
          width="50%"
          style="border-radius: 30px"/>
