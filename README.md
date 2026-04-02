@@ -37,7 +37,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Project**: [Tour Guide](https://tour-guide-553b5.web.app/)
 - <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
 - <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
-- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](https://mr-hafiz-sakib.netlify.app/)
+- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](hafizsakib.vercel.app)
 - <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> **Reach me at**: [hafizsakib5@gmail.com](mailto:hafizsakib5@gmail.com)
 - <img src="https://i.postimg.cc/RFF5t5pv/man-running.gif" width="30" align="center"> **Beyond Coding**: I love playing games and going to the gym regularly
 
