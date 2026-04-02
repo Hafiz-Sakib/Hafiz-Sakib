@@ -1,251 +1,129 @@
-<div>
-
- <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
- </a>
-
- <!--  
- <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a> 
- -->
-
-   <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode" alt="LeetCode profile" />
-</a>
-
-<a href="https://github.com/Hafiz-Sakib">
-    <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib" alt = "profile views count" />
-</a>
-
-<a href="https://github.com/Hafiz-Sakib">
-
-<img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Badge">
-
-</a>
-
-</br>
-</br>
-
+<div align="center">
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
+  </a>
+  <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+  </a>
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=flat&color=0D1117" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </div>
 
-<!-- Banner Started -->
+<br>
 
-<a href="hafizsakib.vercel.app" >
-<img align="right" alt="Coding" width="100%" src="./assets/Outer/1.gif">
+<a href="https://hafizsakib.vercel.app">
+  <img src="./assets/Outer/1.gif" alt="Banner" width="100%" style="border-radius: 12px;" />
 </a>
 
-<!-- Programming Hero Method  -->
+<br>
 
-<!-- <a href="hafizsakib.vercel.app" >
-<img width="100%" src="./assets/Outer/1.gif" />
-</a> -->
+<h1 align="center">Hi 👋, I'm Hafiz Sakib</h1>
 
-<!-- Banner Ended -->
+<h3 align="center">Competitive Programmer &amp; Full Stack Web Developer from Chittagong, Bangladesh</h3>
 
-<!-- About Me Section Started-->
+<br>
 
-<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Hafiz Sakib</h1>
-<h3 align="center">I'm a Passionate
-<em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+- **Current Role**: Passionate problem-solver and full-stack developer with a strong focus on clean, efficient code.
+- **Latest Project**: [Tour Guide](https://tour-guide-553b5.web.app/) — A modern web application built with React and Firebase.
+- **Currently Learning**: Advanced Data Structures & Algorithms while actively participating in competitive programming contests.
+- **Open to Collaboration**: Interested in open-source projects and impactful web development initiatives.
+- **Portfolio**: [View All Projects](https://mr-hafiz-sakib.netlify.app/)
+- **Contact**: [hafizsakib5@gmail.com](mailto:hafizsakib5@gmail.com)
 
-# <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
+<br>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Tour Guide](https://tour-guide-553b5.web.app/)**
-
-- <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
-
-- <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> I’m looking to Collaborate on **OpenSource Projects**
-
-- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> All of my Projects are available at **[My Portfolio](https://mr-hafiz-sakib.netlify.app/)**
-
-- <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me **hafizsakib5@gmail.com**
-
-- <img src="https://i.postimg.cc/RFF5t5pv/man-running.gif" width="30" align="center"> **I love to play Games and go to the GYM very often.**
-
-<!-- About Me Section Ended-->
-
-<!--  Languages and Tools Section Started-->
-
-# <img src="./assets/animated emoji/rocket.gif" width="60px" align="center"> Languages and Tools :
-
-</br>
+## Languages & Tools
 
 <p align="left">
-   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
-    <a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://app.netlify.com/teams/hafiz-sakib/overview" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" width="45" height="45"/> </a> 
-    <a href="https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/heroku.png" width="45" height="45"/> </a>
-        <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/npm.png" alt="express" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/figma--v1.png" width="45" height="45"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio-code-2019.png" width="45" height="45"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://docs.google.com/document/u/0/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/google-docs--v1.png" alt="docs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/mysql-logo.png" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="Git" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" /></a>
 </p>
 
-<!--  Languages and Tools Section Ended-->
+<br>
 
-<br/>
-
-<!-- Contribution Graph Started -->
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!-- Contribution Graph Ended-->
-
-<!-- Github All Stats Start -->
-
-# <img src="./assets/animated emoji/direct_hit.gif" width="40px" align="center"> My Github Stats
-
-  <br/>
-  <div align="center">
-
-  <!-- Summary Graph Start -->
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
-</p>
-
-<!-- Summary Graph End -->
-
-<!-- Github Stats Start -->
-
-<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Github Stats" src="https://readme-stats.clckblog.space/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<!-- Github Stats End -->
-
-   <br/>
-
-<!-- Commits Graph Start -->
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-sakib&theme=github_dark&utcOffset=8"/>
-</p>
-<!-- Commits Graph End -->
-
-<!--Top Language Graph Start -->
-
-<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<!--Top Language Graph End -->
-
-</div>
-
-  <br/>
+## GitHub Stats
 
 <div align="center">
-
-<img src="./assets/animated emoji/backhand_index_pointing_right.gif" width="30px" align="center"><b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
-
-<br/>
-
-<!-- Github All Stats End -->
-
-<!-- Competitive Programming Section Started -->
-
-# 📈 Competitive Programming
-
-<br/>
-<br/>
-
-<div align="center" >
-  
- <!-- Codeforces Stats Card Started-->
-
-<img height="280em" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-
-<!-- Codeforces Stats Card Ended-->
-
-<br/>
-<br/>
-
-<!-- Codeforces && Leetcode Ratings Card Started  -->
-
-<div>
-
-  <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating" />
+  <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C" alt="GitHub Streak" />
   </a>
-
-  <!-- 
-  <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://cp-logo.vercel.app/leetcode/hafiz_sakib" alt="Leet code rating" />
-  </a> 
-  -->
-  <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode" alt="LeetCode profile" />
-</a>
-
-  <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
-  </a>
-
 </div>
 
-  <!-- Codeforces && Leetcode Ratings Card Ended  -->
+<div align="center">
+  <a href="https://github.com/hafiz-sakib/github-readme-stats">
+    <img src="https://readme-stats.clckblog.space/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/hafiz-sakib/github-readme-stats">
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
 
+<p align="center">
+  <em>Note: Top languages reflect public repositories only and do not indicate skill level.</em>
+</p>
+
+<br>
+
+## Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img height="280" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
+  </a>
+  
+  <div>
+    <a href="https://codeforces.com/profile/hafiz_sakib">
+      <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Rating" />
+    </a>
+    <a href="https://leetcode.com/hafiz_sakib/">
+      <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+    </a>
   </div>
+</div>
 
-  <!-- Competitive Programming Section Ended -->
+<br>
 
-<br/>
-<br/>
-
-<!-- Activity & Contribution Graph Section Started -->
-
-# 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  </a>
 </p>
 
-<!-- Activity & Contribution Graph Section Ended -->
+<br>
 
-<br/>
-<br/>
-
-<!-- Social Media Connection Section Started -->
-
-# <img src="./assets/animated emoji/handshake.gif" width="40px" align="center"> Connect with me :
-
-</br>
+## Connect with Me
 
 <p align="center">
-<a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.codechef.com/users/hafizsakib5"><img src="https://img.icons8.com/color/48/null/codechef.png"/></a>
-<a href = "https://leetcode.com/hafiz_Sakib/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
-<a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
-<a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/users/hafizsakib5"><img src="https://img.icons8.com/color/48/null/codechef.png" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/hafiz_Sakib/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png" alt="Facebook" /></a>
+  <a href="https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="48" height="48" alt="X" /></a>
+  <a href="https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
-
-<!-- Social Media Connection Section Ended -->
-</br>
