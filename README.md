@@ -130,5 +130,5 @@
   <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png" alt="Facebook" /></a>
   <a href="https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="48" height="48" alt="X" /></a>
-  <a href="https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
