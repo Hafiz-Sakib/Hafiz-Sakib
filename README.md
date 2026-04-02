@@ -15,17 +15,12 @@
 
 <br>
 
-<!-- <a href="https://hafizsakib.vercel.app">
-  <img src="./assets/Inner/9.gif" alt="Banner" width="50%" style="border-radius: 10%;" />
-</a> -->
-<br>
-
 <div align="center">
   <a href="https://hafizsakib.vercel.app">
     <img src="./assets/Inner/9.gif" 
          alt="Hafiz Sakib - Banner" 
          width="50%" 
-         style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+         style="border-radius: 10%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
   </a>
 </div>
 
@@ -122,8 +117,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
   </a>
 </p>
-
-<br>
 
 ## Connect with Me
 
