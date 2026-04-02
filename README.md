@@ -20,7 +20,7 @@
     <img src="./assets/Inner/9.gif" 
          alt="Hafiz Sakib - Banner" 
          width="50%"
-         style="border-radius: 10%"/>
+         style="border-radius: 30px"/>
   </a>
 </div>
 
