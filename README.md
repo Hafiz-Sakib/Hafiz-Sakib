@@ -76,12 +76,20 @@
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/hafiz-sakib/github-readme-stats">
-    <img src="https://readme-stats.clckblog.space/api?username=hafiz-sakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Hafiz-Sakib&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/hafiz-sakib/github-readme-stats">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<a href="https://github.com/jjoaovitor7/github-toplangs">
+    <img src="https://jj-ghtoplangs.alwaysdata.net/toplangs?user=Hafiz-Sakib&bgcolor=000&titlecolor=fff"
+         alt="GitHub Top Languages" />
+  </a>
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://jj-ghtoplangs.alwaysdata.net/toplangs?user=Hafiz-Sakib&bgcolor=060A0C&titlecolor=00FFFF" alt="GitHub Top Languages" />
   </a>
 </div>
 
