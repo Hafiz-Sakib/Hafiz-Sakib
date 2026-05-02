@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C" alt="GitHub Top Languages" />
+    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C)](https://github.com/rowkav09/GitHub-profile-stats" alt="GitHub Top Languages" />
   </a>
 </div>
 
