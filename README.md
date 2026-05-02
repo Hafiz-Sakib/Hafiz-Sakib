@@ -90,6 +90,7 @@
 <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="22"/></a></td>
 </tr>
 </table>
+
 ## GitHub Stats
 
 <div align="center">
