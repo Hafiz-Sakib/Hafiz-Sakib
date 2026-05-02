@@ -50,57 +50,57 @@
 
 <table style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center" style="border: none;"><a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://reactnative.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="22"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactnative.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="26"/></a></td>
 </tr>
 
 <tr>
-<td align="center" style="border: none;"><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="22"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26"/></a></td>
 </tr>
 
 <tr>
-<td align="center" style="border: none;"><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://intellijidea.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://eclipse.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://heroku.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="22"/></a></td>
-<td align="center" style="border: none;"><a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="22"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://intellijidea.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://eclipse.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://heroku.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="26"/></a></td>
 </tr>
 </table>
 
