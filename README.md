@@ -72,20 +72,9 @@
 
 <div align="center">
   <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib& " alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C" alt="GitHub Streak" />
   </a>
 </div>
-
-<!-- <div align="center">
-  <a href="https://github.com/hafiz-sakib/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=Hafiz-Sakib&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-
-<a href="https://github.com/jjoaovitor7/github-toplangs">
-    <img src="https://jj-ghtoplangs.alwaysdata.net/toplangs?user=Hafiz-Sakib&bgcolor=000&titlecolor=fff"
-         alt="GitHub Top Languages" />
-  </a>
-</div> -->
 
 <div align="center">
   <a href="https://github.com/Hafiz-Sakib">
