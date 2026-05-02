@@ -11,6 +11,9 @@
   <a href="https://github.com/Hafiz-Sakib">
     <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://ghstats.dev/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" alt="GitHub Stars" />
+  </a>
 </div>
 
 <br>
@@ -71,8 +74,14 @@
 ## GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" />
   </a>
 </div>
 
