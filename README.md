@@ -48,7 +48,7 @@
 
 ## 🛠️ Languages & Tools
 
-<table style="border-collapse: collapse; border: black;">
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" style="border: none;"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="26"/></a></td>
 <td align="center" style="border: none;"><a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="26"/></a></td>
