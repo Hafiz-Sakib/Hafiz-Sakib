@@ -180,3 +180,28 @@
   &nbsp;
   <a href="https://www.facebook.com/Sakib.1118/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+
+## 🎯 Current Goals & Roadmap
+
+<div align="center">
+
+|       Status       | Goal                                                              |
+| :----------------: | ----------------------------------------------------------------- |
+| 🔥 **In Progress** | Reach **Specialist** on Codeforces                                |
+| 🔥 **In Progress** | Solve **500+** problems on LeetCode                               |
+|   🚀 **Planned**   | Build & launch a **SaaS product**                                 |
+|   🚀 **Planned**   | Contribute to **10+ open-source** projects                        |
+|  📚 **Learning**   | **System Design** & **DSA** mastery                               |
+|  📚 **Learning**   | **Docker + Kubernetes** in production                             |
+|    ✅ **Done**     | Built full-stack **Tour Guide** app                               |
+|    ✅ **Done**     | Launched personal [**Portfolio**](https://hafizsakib.vercel.app/) |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2025%20Goal-Specialist%20on%20CF-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/2025%20Goal-500%2B%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/2025%20Goal-Launch%20SaaS-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
