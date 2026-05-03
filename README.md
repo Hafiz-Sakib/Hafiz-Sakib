@@ -182,6 +182,7 @@
 </p>
 
 <!-- 💬 RANDOM DEV QUOTE -->
+<div align="center">
 
 ## ✨ Developer's Quote
 
