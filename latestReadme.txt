@@ -11,6 +11,9 @@
   <a href="https://github.com/Hafiz-Sakib">
     <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://ghstats.dev/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" alt="GitHub Stars" />
+  </a>
 </div>
 
 <br>
@@ -43,53 +46,81 @@
 
 <br>
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" /></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/mysql-logo.png" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" /></a>
-</p>
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td align="center" style="border: none;"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="26"/></a></td>
+</tr>
 
-<br>
+<tr>
+<td align="center" style="border: none;"><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26"/></a></td>
+</tr>
+
+<tr>
+<td align="center" style="border: none;"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://intellijidea.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="26"/></a></td>
+</tr>
+</table>
 
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&stroke=000000&background=060A0C" alt="GitHub Streak" />
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
   </a>
 </div>
 
-<!-- <div align="center">
-  <a href="https://github.com/hafiz-sakib/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=Hafiz-Sakib&bg_color=0D1117" alt="GitHub Stats" />
+<div align="center">
+  <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" />
   </a>
-
-<a href="https://github.com/jjoaovitor7/github-toplangs">
-    <img src="https://jj-ghtoplangs.alwaysdata.net/toplangs?user=Hafiz-Sakib&bgcolor=000&titlecolor=fff"
-         alt="GitHub Top Languages" />
-  </a>
-</div> -->
+</div>
 
 <div align="center">
-  <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://jj-ghtoplangs.alwaysdata.net/toplangs?user=Hafiz-Sakib&bgcolor=060A0C&titlecolor=00FFFF" alt="GitHub Top Languages" />
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
   </a>
 </div>
 
@@ -128,15 +159,24 @@
 
 <br>
 
-## Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" /></a>
-  <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/users/hafizsakib5"><img src="https://img.icons8.com/color/48/null/codechef.png" alt="CodeChef" /></a>
-  <a href="https://leetcode.com/hafiz_Sakib/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" /></a>
-  <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png" alt="Facebook" /></a>
-  <a href="https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="48" height="48" alt="X" /></a>
-  <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://hafizsakib.vercel.app/"><img src="https://img.shields.io/badge/-🌍%20My%20Website-black?style=for-the-badge" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/hafiz_Sakib/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/hafizsakib5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://x.com/hafiz_sakib1"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/Sakib.1118/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
