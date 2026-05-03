@@ -205,3 +205,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/2025%20Goal-Launch%20SaaS-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+<!-- Add to README.md -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hafiz-Sakib/Hafiz-Sakib/output/snake.svg"
+       alt="snake eating contributions" />
+</div>
