@@ -145,14 +145,6 @@
     <img height="280" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
   </a>
 
-  <div>
-    <a href="https://codeforces.com/profile/hafiz_sakib">
-      <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Rating" />
-    </a>
-    <a href="https://codeforces.com/profile/hafiz_sakib">
-      <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
-    </a>
-  </div>
 </div>
 
 <br>
