@@ -130,6 +130,21 @@
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Sakib&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+## 🌍 Visitor Globe
+
+<div align="center">
+  <a href="https://clustrmaps.com/site/gmQSRnCji5l4lp0ul15nfO1vAjpev-2aJXrRG_KOpTM">
+    <img src="https://clustrmaps.com/map_v2.png?d=gmQSRnCji5l4lp0ul15nfO1vAjpev-2aJXrRG_KOpTM&w=600&t=tt&cl=ffffff&co=1a1a2e&ct=ffffff&cmo=38bdf8&cmn=0ea5e9"
+         alt="Visitor Globe" />
+  </a>
+</div>
+
 ## Competitive Programming
 
 <div align="center">
