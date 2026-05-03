@@ -130,28 +130,24 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Sakib&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
 ## Competitive Programming
 
 <div align="center">
   <a href="https://codeforces.com/profile/hafiz_sakib">
     <img height="280" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
   </a>
-
+  
+  <div>
+    <a href="https://codeforces.com/profile/hafiz_sakib">
+      <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Rating" />
+    </a>
+    <a href="https://leetcode.com/hafiz_sakib/">
+      <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+    </a>
+  </div>
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://leetcode.com/hafiz_sakib/">
-    <img height="280" src="https://leetcard.jacoblin.cool/hafiz_sakib?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-  </a>
-</div>
 
 ## Contribution Graph
 
