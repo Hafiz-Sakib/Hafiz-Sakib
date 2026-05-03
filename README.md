@@ -1,19 +1,30 @@
 <div align="center">
+
   <a href="https://codeforces.com/profile/hafiz_sakib">
-    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg"
+         alt="Codeforces Max Rating" />
   </a>
+
   <a href="https://leetcode.com/hafiz_sakib/">
-    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+         alt="LeetCode Profile" />
   </a>
+
   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=flat&color=0D1117" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"
+         alt="Profile Views" />
   </a>
+
   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=for-the-badge&color=0D1117&labelColor=1a1a2e"
+         alt="GitHub Followers" />
   </a>
+
   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://ghstats.dev/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" alt="GitHub Stars" />
+    <img src="https://ghstats.dev/api/mini?username=Hafiz-Sakib"
+         alt="GitHub Stars" />
   </a>
+
 </div>
 
 <br>
