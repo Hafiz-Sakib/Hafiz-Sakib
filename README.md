@@ -206,12 +206,6 @@
   <img src="https://img.shields.io/badge/2025%20Goal-Launch%20SaaS-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<!-- Add to README.md -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hafiz-Sakib/Hafiz-Sakib/output/snake.svg"
-       alt="snake eating contributions" />
-</div>
-
 <img width="100%"
      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"
      />
