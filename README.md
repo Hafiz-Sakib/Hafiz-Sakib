@@ -159,7 +159,7 @@
 
 <br>
 
-## Connect with Me
+<!-- ## Connect with Me
 
 <p align="center">
   <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" /></a>
@@ -170,4 +170,53 @@
   <a href="https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png" alt="Facebook" /></a>
   <a href="https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="48" height="48" alt="X" /></a>
   <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
+</p> -->
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://hafizsakib.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-hafizsakib.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+|      Platform      |                                                                                     Link                                                                                      |
+| :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  💼 **LinkedIn**   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-hafiz--sakib-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-sakib-96b8b3229/)  |
+| 🐦 **X (Twitter)** |                       [![X](https://img.shields.io/badge/X-hafiz__sakib1-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hafiz_sakib1)                        |
+|  📘 **Facebook**   |           [![Facebook](https://img.shields.io/badge/Facebook-Sakib1056-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Sakib1056)           |
+|  📸 **Instagram**  |     [![Instagram](https://img.shields.io/badge/Instagram-___sakib.404-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___sakib.404/)      |
+| ⚔️ **Codeforces**  |  [![Codeforces](https://img.shields.io/badge/Codeforces-hafiz__sakib-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hafiz_sakib)   |
+|  🏆 **LeetCode**   |          [![LeetCode](https://img.shields.io/badge/LeetCode-hafiz__Sakib-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/hafiz_Sakib/)          |
+| 👨‍💻 **HackerRank**  | [![HackerRank](https://img.shields.io/badge/HackerRank-Hafiz__Sakib-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Hafiz_Sakib?hr_r=1) |
+|  🍴 **CodeChef**   |      [![CodeChef](https://img.shields.io/badge/CodeChef-hafizsakib5-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/hafizsakib5)      |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://hafizsakib.vercel.app/"><img src="https://img.shields.io/badge/-🌍%20My%20Website-black?style=for-the-badge" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/hafiz_Sakib/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/hafizsakib5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://x.com/hafiz_sakib1"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/Sakib1056"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
