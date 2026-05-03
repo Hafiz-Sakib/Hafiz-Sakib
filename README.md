@@ -181,7 +181,12 @@
   <a href="https://www.facebook.com/Sakib.1118/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-## ✨ Developer Quotes ✨
+<!-- 💬 RANDOM DEV QUOTE -->
+<div align="center">
+
+## ✨ Developer's Quote ✨
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-     alt="Random Developer Quote" />
+     alt="Random Dev Quote" />
+
+</div>
