@@ -130,6 +130,12 @@
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Sakib&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
 ## Competitive Programming
 
 <div align="center">
