@@ -138,8 +138,6 @@
 
 ## Competitive Programming
 
-### Codeforces
-
 <div align="center">
   <a href="https://codeforces.com/profile/hafiz_sakib">
     <img height="280" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
@@ -148,8 +146,6 @@
 </div>
 
 <br>
-
-### LeetCode
 
 <div align="center">
   <a href="https://leetcode.com/hafiz_sakib/">
