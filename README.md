@@ -211,3 +211,21 @@
   <img src="https://raw.githubusercontent.com/Hafiz-Sakib/Hafiz-Sakib/output/snake.svg"
        alt="snake eating contributions" />
 </div>
+
+<img width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"
+     />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+       alt="Random Dev Quote" />
+</div>
+
+## 🌍 Visitor Globe
+
+<div align="center">
+  <a href="https://clustrmaps.com/site/nwwbG7GFRyFsaEWAg3wxDay9wsyOTsh8_xPWoIqZQ9I">
+    <img src="https://clustrmaps.com/map_v2.png?d=nwwbG7GFRyFsaEWAg3wxDay9wsyOTsh8_xPWoIqZQ9I&w=400&t=tt&cl=ffffff&co=1a1a2e&ct=ffffff&cmo=3498db&cmn=e74c3c" 
+         alt="Visitor Globe" />
+  </a>
+</div>
