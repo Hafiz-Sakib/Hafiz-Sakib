@@ -37,7 +37,7 @@
 
 ## About Me
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Project**: [Tour Guide](https://tour-guide-553b5.web.app/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Project**: [SubCalc Pro](https://subnet-genie.vercel.app/)
 - <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
 - <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
 - <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](https://hafizsakib.vercel.app/)
