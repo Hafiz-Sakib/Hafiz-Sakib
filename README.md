@@ -114,7 +114,7 @@
 
 <div align="center">
   <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub_Streak" />
   </a>
 </div>
 
