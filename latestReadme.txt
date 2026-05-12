@@ -37,7 +37,8 @@
 
 ## About Me
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Project**: [SubCalc Pro](https://subcalc-pro.vercel.app/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Projects**: [SubCalc Pro](https://subcalc-pro.vercel.app/) · [Sababa Tours](https://sababa-tours.vercel.app/) · [Nova MathPlot](https://nova-mathplot.vercel.app/)
+
 - <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
 - <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
 - <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](https://hafizsakib.vercel.app/)
@@ -113,8 +114,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/hafiz-sakib/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" />
+  <a href="https://github.com/hafiz-sakib">
+    <img src="https://streak-stats.demolab.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub_Streak" />
   </a>
 </div>
 
