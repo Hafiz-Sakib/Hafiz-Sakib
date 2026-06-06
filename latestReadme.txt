@@ -11,8 +11,8 @@
   <a href="https://github.com/Hafiz-Sakib">
     <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://ghstats.dev/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" alt="GitHub Stars" />
+ <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" />
   </a>
 </div>
 
