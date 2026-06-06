@@ -108,34 +108,24 @@
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rowkav09/GitHub-profile-stats">
-    <img src="https://ghstats.dev/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
   </a>
 </div>
-
 <div align="center">
   <a href="https://github.com/hafiz-sakib">
     <img src="https://streak-stats.demolab.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub_Streak" />
   </a>
 </div>
-
 <div align="center">
-  <a href="https://github.com/rowkav09/GitHub-profile-stats">
-    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
   </a>
 </div>
-
 <p align="center">
   <em>Note: Top languages reflect public repositories only and do not indicate skill level.</em>
 </p>
-
 <br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Sakib&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ## Competitive Programming
 
