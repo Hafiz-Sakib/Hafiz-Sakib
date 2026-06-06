@@ -107,6 +107,12 @@
 
 ## GitHub Stats
 
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=hafiz-sakib&theme=dark&hide_border=true&bg_color=060A0C" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-sakib&theme=dark&hide_border=true&bg_color=060A0C&layout=compact" />
+
 <div align="center">
   <a href="https://github.com/rowkav09/GitHub-profile-stats">
     <img src="https://ghstats.dev/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
