@@ -9,8 +9,8 @@
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=flat&color=0D1117" alt="Profile Views" />
   </a>
   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social" alt="GitHub Followers" />
+</a>
  <a href="https://github.com/Hafiz-Sakib">
     <img src="https://git-hub-profile-stats.vercel.app/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" />
   </a>
