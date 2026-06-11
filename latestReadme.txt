@@ -37,7 +37,7 @@
 
 ## About Me
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Projects**: [SubCalc Pro](https://subcalc-pro.vercel.app/) · [Sababa Tours](https://sababa-tours.vercel.app/) · [Nova MathPlot](https://nova-mathplot.vercel.app/) · [FIFA 2026](https://fifa26bd.vercel.app/) · [BPDB Token](https://bpdb-token-helper.vercel.app/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Projects**: [Algorithm visualizer](https://algorithm-hunter.vercel.app/) · [SubCalc Pro](https://subcalc-pro.vercel.app/) · [Sababa Tours](https://sababa-tours.vercel.app/) · [Nova MathPlot](https://nova-mathplot.vercel.app/) · [FIFA 2026](https://fifa26bd.vercel.app/) · [BPDB Token](https://bpdb-token-helper.vercel.app/)
 
 - <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
 - <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
