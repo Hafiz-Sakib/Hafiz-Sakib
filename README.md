@@ -1,67 +1,189 @@
 <div align="center">
-
-<h3><code>hafiz@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
-<h3><code>hafiz@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-<br>
-
-### Mohammad Hafizur Rahman Sakib
-CS student · Full-stack + ML · Competitive programmer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hafizsakib.vercel.app-58a6ff?style=flat-square)](https://hafizsakib.vercel.app)
-[![Codeforces](https://img.shields.io/badge/Codeforces-hafiz__sakib-1f8acb?style=flat-square)](https://codeforces.com/profile/hafiz_sakib)
-[![LeetCode](https://img.shields.io/badge/LeetCode-hafiz__sakib-FFA116?style=flat-square)](https://leetcode.com/hafiz_sakib)
-[![GitHub followers](https://img.shields.io/github/followers/Hafiz-Sakib?style=flat-square&color=39d353)](https://github.com/Hafiz-Sakib)
-
-<br>
-
-<h3><code>hafiz@github ~ $ ls projects/</code></h3>
-
-| Project | Stack | Link |
-|---|---|---|
-| **AlgoViz** | React · TypeScript · TanStack Router · Framer Motion | [algorithm-hunter.vercel.app](https://algorithm-hunter.vercel.app) |
-| **NOVA MathPlot** | React · Three.js · mathjs | [nova-mathplot.vercel.app](https://nova-mathplot.vercel.app) |
-| **SubCalcPro** | FLSM/VLSM subnet calculator | GitHub |
-| **Sababa Tours** | React · Firebase Auth | GitHub |
-
-<br>
-
-<h3><code>hafiz@github ~ $ neofetch --stats</code></h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Sakib&show_icons=true&theme=github-dark-dimmed&hide_border=true" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Sakib&layout=compact&theme=github-dark-dimmed&hide_border=true" width="330" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Sakib&theme=darkhub&no-frame=true&row=1&column=6" width="800" />
-
-<br>
-
-[![WakaTime](https://wakatime.com/badge/user/d290a0b4-e713-443f-910e-fd105fcd77b9.svg)](https://wakatime.com/@d290a0b4-e713-443f-910e-fd105fcd77b9)
-
-<br>
-
-<img src="https://clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID" width="500" />
-
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
+  </a>
+  <a href="https://leetcode.com/hafiz_sakib/">
+    <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+  </a>
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=flat&color=0D1117" alt="Profile Views" />
+  </a>
+ <a href="https://github.com/Hafiz-Sakib">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hafiz-Sakib&label=Followers&query=$.followers&style=social&logo=github" />
+</a>
+ <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" />
+  </a>
 </div>
 
-<!--
-Regeneration:
-  static art (change only when photo/details change):
-    python scripts/prep_photo.py your-photo.jpg
-    python scripts/make_ascii_svg.py
-    python scripts/make_info_card.py
-  live art (auto-refreshed daily by .github/workflows/update-profile-art.yml):
-    python scripts/fetch_contributions.py
-    python scripts/render_heatmap_svg.py
--->
+<br>
+
+<div align="center">
+  <a href="https://hafizsakib.vercel.app">
+    <img src="./assets/Inner/9.gif" 
+         alt="Hafiz Sakib - Banner" 
+         width="50%"
+         style="border-radius: 30px"/>
+  </a>
+</div>
+
+<br>
+
+<h1 align="center">Hi 👋, I'm Hafiz Sakib</h1>
+
+<h3 align="center">Competitive Programmer &amp; Full Stack Web Developer from Chittagong, Bangladesh</h3>
+
+<br>
+
+## About Me
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> **Latest Projects**: [Algorithm visualizer](https://algorithm-hunter.vercel.app/) · [SubCalc Pro](https://subcalc-pro.vercel.app/) · [Sababa Tours](https://sababa-tours.vercel.app/) · [Nova MathPlot](https://nova-mathplot.vercel.app/) · [FIFA 2026](https://fifa26bd.vercel.app/) · [BPDB Token](https://bpdb-token-helper.vercel.app/)
+
+- <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> **Currently Learning**: Advanced Data Structures & Algorithms and actively solving problems on multiple online judges
+- <img src="https://i.postimg.cc/kXJ2sTt8/eyes.gif" width="30" align="center"> **Open to Collaboration**: Interested in open-source projects
+- <img src="./assets/animated emoji/bomb.gif" width="30" align="center"> **Projects**: Explore all my work on [My Portfolio](https://hafizsakib.vercel.app/)
+- <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> **Reach me**: [hafizsakib5@gmail.com](mailto:hafizsakib5@gmail.com)
+- <img src="https://i.postimg.cc/RFF5t5pv/man-running.gif" width="30" align="center"> **Beyond Coding**: I love playing games and going to the gym regularly
+
+<br>
+
+## 🛠️ Languages & Tools
+
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td align="center" style="border: none;"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="26"/></a></td>
+</tr>
+
+<tr>
+<td align="center" style="border: none;"><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26"/></a></td>
+</tr>
+
+<tr>
+<td align="center" style="border: none;"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://intellijidea.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="26"/></a></td>
+<td align="center" style="border: none;"><a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="26"/></a></td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/card?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Stats Card" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/hafiz-sakib">
+    <img src="https://streak-stats.demolab.com/?user=Hafiz-Sakib&theme=black-ice&hide_border=true&background=060A0C&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub_Streak" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://git-hub-profile-stats.vercel.app/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
+  </a>
+</div>
+<p align="center">
+  <em>Note: Top languages reflect public repositories only and do not indicate skill level.</em>
+</p>
+<br>
+
+## Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/hafiz_sakib">
+    <img height="280" src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
+  </a>
+  
+  <div>
+    <a href="https://codeforces.com/profile/hafiz_sakib">
+      <img src="https://raw.githubusercontent.com/hafiz-sakib/cf-stats/main/output/rating.svg" alt="Codeforces Rating" />
+    </a>
+    <a href="https://leetcode.com/hafiz_sakib/">
+      <img src="https://img.shields.io/badge/LeetCode-hafiz__sakib-orange?logo=leetcode&style=flat" alt="LeetCode Profile" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+## Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  </a>
+</p>
+
+<br>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://hafizsakib.vercel.app/"><img src="https://img.shields.io/badge/-🌍%20My%20Website-black?style=for-the-badge" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/hafiz_sakib"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/hafiz_Sakib/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/hafizsakib5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://x.com/hafiz_sakib1"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/___sakib.404/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/Sakib.1118/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<!-- 💬 RANDOM DEV QUOTE -->
+<div align="center">
+
+## ✨ Developer's Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+     alt="Random Dev Quote" />
+
+</div>
