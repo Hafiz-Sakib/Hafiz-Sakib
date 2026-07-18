@@ -14,14 +14,14 @@ STATIC = os.environ.get("STATIC") == "1"
 TITLE = "hafiz@github"
 ROWS = [
     ("OS", "Zorin OS 18 (Hyprland)"),
-    ("Now", "Building Proof Sheet — Figure to PDF (React/Vite PWA)"),
-    ("Prev", "AlgoViz — 64+ algorithms, React/TS, TanStack Router"),
-    ("Stack", "React · TypeScript · Node · PyTorch · Firebase"),
-    ("CP", "Codeforces & LeetCode @hafiz_sakib"),
-    ("Highlights", "AlgoViz · NOVA MathPlot · SubCalcPro · Sababa Tours"),
+    ("Now", "Proof Sheet — Figure to PDF"),
+    ("Prev", "AlgoViz — 64+ algos, React/TS"),
+    ("Stack", "React · TS · Node · PyTorch"),
+    ("CP", "Codeforces/LeetCode @hafiz_sakib"),
+    ("Projects", "AlgoViz · NOVA · SubCalcPro"),
 ]
 
-WIDTH = 490
+WIDTH = 560
 LINE_H = 30
 PAD_TOP = 56
 KEY_COLOR = "#39d353"

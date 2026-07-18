@@ -16,7 +16,6 @@
 <br>
 
 ### Mohammad Hafizur Rahman Sakib
-
 CS student · Full-stack + ML · Competitive programmer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hafizsakib.vercel.app-58a6ff?style=flat-square)](https://hafizsakib.vercel.app)
@@ -28,12 +27,12 @@ CS student · Full-stack + ML · Competitive programmer
 
 <h3><code>hafiz@github ~ $ ls projects/</code></h3>
 
-| Project           | Stack                                                | Link                                                               |
-| ----------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
-| **AlgoViz**       | React · TypeScript · TanStack Router · Framer Motion | [algorithm-hunter.vercel.app](https://algorithm-hunter.vercel.app) |
-| **NOVA MathPlot** | React · Three.js · mathjs                            | [nova-mathplot.vercel.app](https://nova-mathplot.vercel.app)       |
-| **SubCalcPro**    | FLSM/VLSM subnet calculator                          | GitHub                                                             |
-| **Sababa Tours**  | React · Firebase Auth                                | GitHub                                                             |
+| Project | Stack | Link |
+|---|---|---|
+| **AlgoViz** | React · TypeScript · TanStack Router · Framer Motion | [algorithm-hunter.vercel.app](https://algorithm-hunter.vercel.app) |
+| **NOVA MathPlot** | React · Three.js · mathjs | [nova-mathplot.vercel.app](https://nova-mathplot.vercel.app) |
+| **SubCalcPro** | FLSM/VLSM subnet calculator | GitHub |
+| **Sababa Tours** | React · Firebase Auth | GitHub |
 
 <br>
 
