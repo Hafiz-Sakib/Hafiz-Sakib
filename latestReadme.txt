@@ -8,9 +8,9 @@
   <a href="https://github.com/Hafiz-Sakib">
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Sakib&style=flat&color=0D1117" alt="Profile Views" />
   </a>
- <a href="https://github.com/Hafiz-Sakib">
-  <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social&logo=github
-  " />
+<a href="https://github.com/Hafiz-Sakib">
+  <img src="https://img.shields.io/github/followers/Hafiz-Sakib?label=Followers&style=social&logo=github" alt="GitHub Followers" />
+</a>
 </a>
  <a href="https://github.com/Hafiz-Sakib">
     <img src="https://git-hub-profile-stats.vercel.app/api/mini?username=Hafiz-Sakib" alt="GitHub Mini Badge" />
@@ -119,8 +119,8 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://git-hub-profile-stats.vercel.app/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
+   <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&layout=grid&bg=060A0C&title_color=38bdf8&icon_color=0ea5e9&text=ffffff&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 <p align="center">
