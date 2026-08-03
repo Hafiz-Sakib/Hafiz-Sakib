@@ -119,8 +119,8 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://git-hub-profile-stats.vercel.app/api/langs?username=hafiz-sakib&theme=black-ice&hide_border=true&bg=060A0C" alt="GitHub Top Languages" />
+ <a href="https://github.com/Hafiz-Sakib">
+    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&layout=grid&theme=midnight" alt="Top Languages" />
   </a>
 </div>
 <p align="center">
