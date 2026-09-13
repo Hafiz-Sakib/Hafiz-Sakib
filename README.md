@@ -151,7 +151,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph-xi-five.vercel.app/graph?username=Hafiz-Sakib&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
   </a>
 </p>
 
