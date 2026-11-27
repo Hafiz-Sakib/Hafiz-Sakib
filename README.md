@@ -119,8 +119,11 @@
   </a>
 </div>
 <div align="center">
-   <a href="https://github.com/Hafiz-Sakib">
-    <img src="https://ghstats.dev/api/langs?username=hafiz-sakib&layout=grid&bg=060A0C&title_color=38bdf8&icon_color=0ea5e9&text=ffffff&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Hafiz-Sakib">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Sakib&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&langs_count=10"
+      alt="Top Languages"
+    />
   </a>
 </div>
 <p align="center">
